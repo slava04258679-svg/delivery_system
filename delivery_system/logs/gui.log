@@ -1,0 +1,110 @@
+2026-06-17 20:53:14 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-17 20:53:14 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-17 20:53:15 - delivery_system - INFO - GUI приложение запущено
+2026-06-17 21:01:00 - delivery_system - INFO - Отключено от SQLite
+2026-06-17 21:01:00 - delivery_system - INFO - GUI приложение закрыто
+2026-06-17 21:02:30 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-17 21:02:30 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-17 21:02:30 - delivery_system - INFO - GUI приложение запущено
+2026-06-17 21:03:04 - delivery_system - INFO - Создан клиент: Тяпкин (ID: 1)
+2026-06-17 21:03:06 - delivery_system - INFO - Создан клиент через GUI: Тяпкин
+2026-06-17 21:03:37 - delivery_system - INFO - Создан заказ: ID 1
+2026-06-17 21:03:39 - delivery_system - INFO - Создан заказ через GUI
+2026-06-17 21:04:04 - delivery_system - WARNING - Нельзя удалить клиента 1: есть заказы
+2026-06-17 21:04:06 - delivery_system - WARNING - Попытка удаления клиента 1 с заказами
+2026-06-17 21:04:15 - delivery_system - INFO - Обновлен заказ: ID 1
+2026-06-17 21:04:16 - delivery_system - INFO - Обновлён заказ 1 через GUI
+2026-06-17 21:04:28 - delivery_system - WARNING - Нельзя удалить клиента 1: есть заказы
+2026-06-17 21:04:29 - delivery_system - WARNING - Попытка удаления клиента 1 с заказами
+2026-06-17 21:04:41 - delivery_system - INFO - Удален заказ: ID 1
+2026-06-17 21:04:42 - delivery_system - INFO - Удалён заказ 1 через GUI
+2026-06-17 21:05:27 - delivery_system - INFO - Создан заказ: ID 2
+2026-06-17 21:05:28 - delivery_system - INFO - Создан заказ через GUI
+2026-06-17 21:05:56 - delivery_system - INFO - Создан заказ: ID 3
+2026-06-17 21:05:58 - delivery_system - INFO - Создан заказ через GUI
+2026-06-17 21:06:22 - delivery_system - INFO - Создан заказ: ID 4
+2026-06-17 21:06:23 - delivery_system - INFO - Создан заказ через GUI
+2026-06-17 21:06:49 - delivery_system - INFO - Создан заказ: ID 5
+2026-06-17 21:06:51 - delivery_system - INFO - Создан заказ через GUI
+2026-06-17 21:06:57 - delivery_system - INFO - Обновлен заказ: ID 5
+2026-06-17 21:06:58 - delivery_system - INFO - Обновлён заказ 5 через GUI
+2026-06-17 21:11:30 - delivery_system - INFO - Удален заказ: ID 5
+2026-06-17 21:11:31 - delivery_system - INFO - Удалён заказ 5 через GUI
+2026-06-17 21:11:34 - delivery_system - INFO - Удален заказ: ID 4
+2026-06-17 21:11:36 - delivery_system - INFO - Удалён заказ 4 через GUI
+2026-06-17 21:11:39 - delivery_system - INFO - Удален заказ: ID 3
+2026-06-17 21:11:40 - delivery_system - INFO - Удалён заказ 3 через GUI
+2026-06-17 21:11:43 - delivery_system - INFO - Удален заказ: ID 2
+2026-06-17 21:11:44 - delivery_system - INFO - Удалён заказ 2 через GUI
+2026-06-17 21:11:59 - delivery_system - INFO - Отключено от SQLite
+2026-06-17 21:11:59 - delivery_system - INFO - GUI приложение закрыто
+2026-06-17 21:16:17 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-17 21:16:17 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-17 21:16:17 - delivery_system - INFO - GUI приложение запущено
+2026-06-17 21:16:52 - delivery_system - INFO - Создан заказ: ID 6
+2026-06-17 21:16:53 - delivery_system - INFO - Создан заказ через GUI
+2026-06-17 21:17:15 - delivery_system - INFO - Обновлен заказ: ID 6
+2026-06-17 21:17:16 - delivery_system - INFO - Обновлён заказ 6 через GUI
+2026-06-17 21:17:26 - delivery_system - INFO - Обновлен заказ: ID 6
+2026-06-17 21:17:27 - delivery_system - INFO - Обновлён заказ 6 через GUI
+2026-06-17 21:18:45 - delivery_system - INFO - Обновлен заказ: ID 6
+2026-06-17 21:18:47 - delivery_system - INFO - Обновлён заказ 6 через GUI
+2026-06-17 23:05:34 - delivery_system - INFO - Удален заказ: ID 6
+2026-06-17 23:05:36 - delivery_system - INFO - Удалён заказ 6 через GUI
+2026-06-17 23:05:40 - delivery_system - INFO - Отключено от SQLite
+2026-06-17 23:05:40 - delivery_system - INFO - GUI приложение закрыто
+2026-06-17 23:16:00 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-17 23:16:00 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-17 23:16:00 - delivery_system - INFO - GUI приложение запущено
+2026-06-17 23:16:05 - delivery_system - INFO - Отключено от SQLite
+2026-06-17 23:16:05 - delivery_system - INFO - GUI приложение закрыто
+2026-06-19 12:59:51 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-19 12:59:52 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-19 12:59:52 - delivery_system - INFO - GUI приложение запущено
+2026-06-19 13:00:26 - delivery_system - INFO - Создан заказ: ID 7 с 1 позициями
+2026-06-19 13:00:27 - delivery_system - INFO - Создан заказ через GUI
+2026-06-19 13:00:37 - delivery_system - INFO - Обновлен заказ: ID 7 с 1 позициями
+2026-06-19 13:00:39 - delivery_system - INFO - Обновлён заказ 7 через GUI
+2026-06-19 13:00:41 - delivery_system - INFO - Отключено от SQLite
+2026-06-19 13:00:41 - delivery_system - INFO - GUI приложение закрыто
+2026-06-19 13:07:30 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-19 13:07:30 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-19 13:07:30 - delivery_system - INFO - GUI приложение запущено
+2026-06-19 13:07:38 - delivery_system - INFO - Отключено от SQLite
+2026-06-19 13:07:38 - delivery_system - INFO - GUI приложение закрыто
+2026-06-19 13:08:33 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-19 13:08:33 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-19 13:08:33 - delivery_system - INFO - GUI приложение запущено
+2026-06-19 13:08:44 - delivery_system - INFO - Отключено от SQLite
+2026-06-19 13:08:44 - delivery_system - INFO - GUI приложение закрыто
+2026-06-19 17:05:30 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-19 17:05:30 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-19 17:05:30 - delivery_system - INFO - GUI приложение запущено
+2026-06-19 17:05:35 - delivery_system - INFO - Отключено от SQLite
+2026-06-19 17:05:35 - delivery_system - INFO - GUI приложение закрыто
+2026-06-19 17:05:38 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-19 17:05:38 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-19 17:05:38 - delivery_system - INFO - GUI приложение запущено
+2026-06-19 17:06:14 - delivery_system - INFO - Отключено от SQLite
+2026-06-19 17:06:14 - delivery_system - INFO - GUI приложение закрыто
+2026-06-19 17:10:24 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-19 17:10:24 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-19 17:10:24 - delivery_system - INFO - GUI приложение запущено
+2026-06-19 17:10:38 - delivery_system - INFO - Отключено от SQLite
+2026-06-19 17:10:38 - delivery_system - INFO - GUI приложение закрыто
+2026-06-19 17:10:44 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-19 17:10:44 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-19 17:10:44 - delivery_system - INFO - GUI приложение запущено
+2026-06-19 17:11:03 - delivery_system - INFO - Обновлен заказ: ID 7 с 1 позициями
+2026-06-19 17:11:05 - delivery_system - INFO - Обновлён заказ 7 через GUI
+2026-06-19 17:11:24 - delivery_system - INFO - Отключено от SQLite
+2026-06-19 17:11:24 - delivery_system - INFO - GUI приложение закрыто
+2026-06-19 17:20:39 - delivery_system - INFO - Подключено к SQLite: data/delivery.db
+2026-06-19 17:20:39 - delivery_system - INFO - Подключено к SQLITE базе данных
+2026-06-19 17:20:39 - delivery_system - INFO - GUI приложение запущено
+2026-06-19 17:21:42 - delivery_system - INFO - Создан клиент: Виктор (ID: 2)
+2026-06-19 17:21:44 - delivery_system - INFO - Создан клиент через GUI: Виктор
+2026-06-19 17:23:01 - delivery_system - INFO - Создан заказ: ID 8 с 1 позициями
+2026-06-19 17:23:04 - delivery_system - INFO - Создан заказ через GUI
+2026-06-19 17:23:16 - delivery_system - INFO - Отключено от SQLite
+2026-06-19 17:23:16 - delivery_system - INFO - GUI приложение закрыто
